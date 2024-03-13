@@ -1,4 +1,4 @@
 # React + Vite
 
 
-- (course-registration-assignment7-previous-batch.surge.sh) 
+- [course-registration-assignment7-previous-batch.surge.sh]
